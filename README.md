@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/rSyq3MW.png" alt="The Documentation Compendium"></a>
+ <img src="https://github.com/dylangobey/FPSE-AI-Documentation/blob/main/Img/Logo.png" alt="FPS Engine Logo"></a>
 </p>
 
 # FPSE-AI-Documentation
